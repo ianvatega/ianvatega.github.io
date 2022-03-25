@@ -1,15 +1,15 @@
-## Welcome to GitHub Pages
+## Bienvenido a GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ianvatega/ianvatega.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Puedes usar el [editor on GitHub](https://github.com/ianvatega/ianvatega.github.io/edit/main/index.md) para mantener y previsualizar el contenido de tu sitio web en archivos Markdown.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Siempre que te comprometas con este repositorio, GitHub Pages ejecutará [Jekyll](https://jekyllrb.com/) para reconstruir las páginas de tu sitio, a partir del contenido de tus archivos Markdown.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown es una sintaxis ligera y fácil de usar para dar estilo a tu escritura. Incluye convenciones para:
 
 ```markdown
-Syntax highlighted code block
+Syntax highlighted code block (Bloque de código resaltado de sintaxis)
 
 # Header 1
 ## Header 2
@@ -26,12 +26,14 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Para obtener más detalles, consulte Sintaxis básica de escritura y formato.
 
-### Jekyll Themes
+Para obtener más detalles, consulte [consulte Sintaxis básica de escritura y formato](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ianvatega/ianvatega.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Plantillas Jekyll (Themes)
 
-### Support or Contact
+Su sitio de Pages utilizará el diseño y los estilos del tema Jekyll que ha seleccionado en la [configuración de su repositorio](https://github.com/ianvatega/ianvatega.github.io/settings/pages). El nombre de este tema se guarda en el archivo de configuración de Jekyll `_config.yml`
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Soporte o Contacto
+
+¿Tiene problemas con las páginas? Consulte nuestra [documentación](https://docs.github.com/categories/github-pages-basics/) o [contacte con el soporte](https://support.github.com/contact) y lo ayudaremos. solucionar el problema.
