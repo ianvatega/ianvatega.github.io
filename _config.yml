@@ -1,3 +1,11 @@
 theme: jekyll-theme-cayman
+
 title: GitHub Pages by ianvtega
 description: proyectos en GitHub
+
+baseurl: ""
+url: "https://ianvatega.github.io"
+twitter_username: ianvatega
+github_username:  ianvatega
+gitlab_username:  ianvatega
+repository: ianvatega/ianvatega.github.io
